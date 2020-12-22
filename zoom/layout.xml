@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+<grid color="blue">
+	<row>
+		<button text="Prev Desktop" ontap="PrevDesk" />
+		<button text="Next Desktop" ontap="NextDesk" />
+	</row>
+	<row>
+		<button text="Zoom Share" ontap="ZoomShare" />
+		<button text="Zoom End" ontap="ZoomEnd" />
+	</row>
+	<row>
+		<button text="Zoom Controls" ontap="ZoomControls" />
+	</row>
+  </grid>
+</layout>
