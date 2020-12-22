@@ -46,13 +46,13 @@ These instructions assume you have your Unified remote working and connected to 
 Copy all files in the `zoom` folder into folder: `C:\ProgramData\Unified Remote\Remotes\Custom\zoom`
 
 On your computer, find the Unified Remote icon on the taskbar (the hidden icons on the right). Right-click and choose `Manager ...`.
-This starts a browser screen titles *Status*.
+This starts a browser screen titled *Status*.
 On the bottom of the screen, hit the button `RELOAD REMOTES`.
 Unfortunately, this doesn't reload the remotes. You have to hit the `RESTART SERVER` button.
 
 On the menu on the left of the screen, choose *Remotes*. Scroll down and check that Zoom is in the list.
 
-Start the app. You will see the screen titled *Remotes* and listing `Basic Input` as the first one.
+Start the app on your phone. You will see the screen titled *Remotes* and listing `Basic Input` as the first one.
 
 On the bottom left you will see a refresh icon. Press it to refresh the list. Zoom won't be on the list yet. Then hit the green (+) button on the screen. It shows several categories. Press *Other*. Press *Zoom*. Now Zoom will be displayed in the Remotes list.
 
